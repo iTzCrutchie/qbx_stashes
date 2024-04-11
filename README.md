@@ -1,10 +1,10 @@
 # qbx_stashes
 Custom Stashes for qbox and ox_inventory
 
-## ✨ Features
+## Features
 
 - Server-side setup of stashes with ox_inventory
-- Allows the simple creation of stashes for multiple jobs, gangs, or public stashes
+- Simple creation of stashes for multiple jobs, gangs, or public stashes
 
 ### Dependencies
 
