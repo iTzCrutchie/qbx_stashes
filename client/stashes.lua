@@ -1,7 +1,3 @@
-----------------
--- Client Locals
-----------------
-
 local config = require 'config.client'
 
 ------------
