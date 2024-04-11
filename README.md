@@ -8,8 +8,9 @@ Custom Stashes for qbox and ox_inventory
 
 ### Dependencies
 
-[qbx_core](https://github.com/Qbox-project/qbx_core)
-[ox_inventory](https://github.com/overextended/ox_inventory)
-[ox_lib](https://github.com/overextended/ox_lib)
+- [qbx_core](https://github.com/Qbox-project/qbx_core)
+- [ox_inventory](https://github.com/overextended/ox_inventory)
+- [ox_lib](https://github.com/overextended/ox_lib)
+
 If using targets:
-[ox_target](https://github.com/overextended/ox_target)
+- [ox_target](https://github.com/overextended/ox_target)
