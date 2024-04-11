@@ -1,10 +1,10 @@
----@param name string: unique stash name to register with ox_inventory
----@param label string: label that will be shown while targeting or in the stash
----@param weight integer: the weight limit of the stash
----@param slots integer: how many slots the stash has
----@param groups string or table: the groups that can access the stash. Leave blank for everyone to access
----@param owner boolean: whether the stash will be a personal stash or shared with the group
----@param location vector3: location of the stash
+---@param name string unique stash name to register with ox_inventory
+---@param label string label that will be shown while targeting or in the stash
+---@param weight integer the weight limit of the stash
+---@param slots integer how many slots the stash has
+---@param groups string or table the groups that can access the stash. Leave blank for everyone to access
+---@param owner boolean whether the stash will be a personal stash or shared with the group
+---@param location vector3 location of the stash
 
 return {
     stashes = {
