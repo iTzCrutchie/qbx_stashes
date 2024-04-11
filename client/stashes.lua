@@ -26,7 +26,7 @@ end
 -- Create targets and zones
 ---------------------------
 
-if not config.useTarget then
+if config.useTarget then
     CreateThread(function()
         local stashes = lib.callback.await('qbx_stashes:server:getStashes', false)
         for i = 1, #stashes do
